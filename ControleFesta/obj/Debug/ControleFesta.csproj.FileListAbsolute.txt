@@ -1,0 +1,12 @@
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\bin\Debug\ControleFesta.exe.config
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\bin\Debug\ControleFesta.exe
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\bin\Debug\ControleFesta.pdb
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.csproj.AssemblyReference.cache
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.csproj.SuggestedBindingRedirects.cache
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.Form1.resources
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.Properties.Resources.resources
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.csproj.GenerateResource.cache
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.csproj.CoreCompileInputs.cache
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.exe
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.pdb
+C:\Users\brunno.sleal\source\repos\ControleFesta\ControleFesta\obj\Debug\ControleFesta.Principal.resources

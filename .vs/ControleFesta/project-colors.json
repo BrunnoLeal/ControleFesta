@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2d10ff1f-da9b-4050-a236-0194ff188d81": {
+      "ProjectGuid": "2d10ff1f-da9b-4050-a236-0194ff188d81",
+      "DisplayName": "ControleFesta",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
